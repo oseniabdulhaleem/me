@@ -7,7 +7,8 @@ I recommend starting the day at around 4am, following this format
 * 4:50 - 5:30 - Book of sages
 * 5:30 - 6:00 - Game of Go
 * 6:00 - Reiterate your goals
-
+* Practise Anki
+* Practise Excercise
 
 ref - 
 
