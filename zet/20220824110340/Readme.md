@@ -9,6 +9,7 @@ I recommend starting the day at around 4am, following this format
 * 6:00 - Reiterate your goals
 * Practise Anki
 * Practise Excercise
+* Do some cleaning
 
 ref - 
 
