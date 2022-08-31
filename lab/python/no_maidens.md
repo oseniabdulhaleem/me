@@ -17,4 +17,13 @@ def greet():
     return "hello world!"
 ```
 
-    saw it on coderwars and it was funny
+    saw it on coderwars and it was funny to me
+
+
+```python
+
+x = ''' i 
+        love
+        you 
+    '''
+```
