@@ -7,6 +7,7 @@
 - where one's Goals is so clear it feels like it is achieved already
 - The perfect state
 
+ref - 
 
     #zen #thinking #true_state
 
