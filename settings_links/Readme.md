@@ -1,2 +1,3 @@
-https://www.itechtics.com/open-command-window-folder/
-https://gophercises.com/
+- https://www.itechtics.com/open-command-window-folder/
+- https://gophercises.com/
+- https://www.roelpeters.be/vboxmanage-is-not-recognized-and-how-to-solve-it/ [add vboxmange permanently to path]
