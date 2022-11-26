@@ -10,4 +10,6 @@ the distributors of their product in each region also see profit since big super
 
 ref : https://cwaygroup.com/
 
+interesting global competitor: waterlogic.com
+
     #interesting_venture #unknown #private
