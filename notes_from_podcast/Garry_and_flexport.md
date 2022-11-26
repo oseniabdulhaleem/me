@@ -7,6 +7,7 @@ his plan to implement buy now pay later
 Slow is smooth Smooth is fast
 
 Hire Qualified/ Experienced people
+Surround yourself with talented people(personal) to become a better version of yourself.
 
 ***Companies should be purpose driven***
 
