@@ -15,3 +15,6 @@ Example:
     hey, I'm interested in hearing your perspective on so and so.
     here is how i saw it.
 
+
+
+    #negotiating #advice #law #business
