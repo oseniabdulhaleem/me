@@ -15,3 +15,6 @@ when you raise/receive funds the following should be done:
 - Tight Capital Allocation
 - Accounting Control
 - Budgeting process
+
+
+    #negotiating #advice #law #business
