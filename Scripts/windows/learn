@@ -1,0 +1,12 @@
+> adb shell # goes to phone shell
+> adb devices # list adb devices connected
+
+> ls /system/bin #list the command available to run in the shell
+
+> adb backup -all -f C:\phonebackup.ab #to backup your phone
+
+> adb backup "-apk -shared -all -f C:\Users\HP\backup.ab" #I NEED TO ADD DOUBLE QUOTE
+
+> adb backup -apk -shared -all -f C:\Users\HP\backup.ab # it worked the rest didn't 
+
+
